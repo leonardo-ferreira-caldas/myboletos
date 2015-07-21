@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: MyBoletos
+        psr4_prefix: MyBoletos
+        src_path: app
